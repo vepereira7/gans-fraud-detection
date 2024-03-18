@@ -1,0 +1,1811 @@
+2024-01-05 15:24:16,508:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-01-05 15:24:16,508:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-01-05 15:24:16,509:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-01-05 15:24:16,509:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-01-05 15:28:17,898:INFO:PyCaret ClassificationExperiment
+2024-01-05 15:28:17,898:INFO:Logging name: clf-default-name
+2024-01-05 15:28:17,898:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-01-05 15:28:17,899:INFO:version 3.2.0
+2024-01-05 15:28:17,899:INFO:Initializing setup()
+2024-01-05 15:28:17,923:INFO:self.USI: fea8
+2024-01-05 15:28:17,923:INFO:self._variable_keys: {'is_multiclass', 'y', 'fold_groups_param', 'memory', 'gpu_param', 'y_train', 'X', 'gpu_n_jobs_param', 'X_test', 'html_param', 'pipeline', 'USI', '_available_plots', 'seed', 'data', 'y_test', 'X_train', 'exp_id', 'log_plots_param', 'logging_param', 'fold_generator', 'fix_imbalance', 'exp_name_log', 'idx', 'fold_shuffle_param', '_ml_usecase', 'n_jobs_param', 'target_param'}
+2024-01-05 15:28:17,924:INFO:Checking environment
+2024-01-05 15:28:17,924:INFO:python_version: 3.11.5
+2024-01-05 15:28:17,924:INFO:python_build: ('main', 'Sep 11 2023 08:19:27')
+2024-01-05 15:28:17,924:INFO:machine: x86_64
+2024-01-05 15:28:17,924:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2024-01-05 15:28:17,924:INFO:Memory: svmem(total=17179869184, available=7112257536, percent=58.6, used=8274984960, free=1375080448, active=5737885696, inactive=5669179392, wired=2537099264)
+2024-01-05 15:28:17,924:INFO:Physical Core: 4
+2024-01-05 15:28:17,924:INFO:Logical Core: 8
+2024-01-05 15:28:17,924:INFO:Checking libraries
+2024-01-05 15:28:17,924:INFO:System:
+2024-01-05 15:28:17,924:INFO:    python: 3.11.5 (main, Sep 11 2023, 08:19:27) [Clang 14.0.6 ]
+2024-01-05 15:28:17,924:INFO:executable: /Users/vp/anaconda3/envs/mdse/bin/python
+2024-01-05 15:28:17,924:INFO:   machine: macOS-10.16-x86_64-i386-64bit
+2024-01-05 15:28:17,925:INFO:PyCaret required dependencies:
+2024-01-05 15:30:02,395:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-01-05 15:30:02,396:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-01-05 15:30:02,396:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-01-05 15:30:02,396:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-01-05 15:32:25,259:INFO:PyCaret ClassificationExperiment
+2024-01-05 15:32:25,259:INFO:Logging name: clf-default-name
+2024-01-05 15:32:25,259:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-01-05 15:32:25,259:INFO:version 3.2.0
+2024-01-05 15:32:25,259:INFO:Initializing setup()
+2024-01-05 15:32:25,259:INFO:self.USI: ca18
+2024-01-05 15:32:25,259:INFO:self._variable_keys: {'html_param', 'data', 'log_plots_param', 'fold_generator', 'is_multiclass', 'idx', 'n_jobs_param', 'y', 'X_train', 'seed', 'gpu_param', 'fix_imbalance', 'exp_name_log', 'X_test', 'y_test', 'X', 'fold_groups_param', 'y_train', 'exp_id', 'gpu_n_jobs_param', 'logging_param', 'pipeline', 'fold_shuffle_param', 'memory', 'target_param', 'USI', '_ml_usecase', '_available_plots'}
+2024-01-05 15:32:25,259:INFO:Checking environment
+2024-01-05 15:32:25,259:INFO:python_version: 3.11.5
+2024-01-05 15:32:25,260:INFO:python_build: ('main', 'Sep 11 2023 08:19:27')
+2024-01-05 15:32:25,260:INFO:machine: x86_64
+2024-01-05 15:32:25,260:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2024-01-05 15:32:25,260:INFO:Memory: svmem(total=17179869184, available=7150092288, percent=58.4, used=8393670656, free=1430106112, active=5718933504, inactive=5602590720, wired=2674737152)
+2024-01-05 15:32:25,260:INFO:Physical Core: 4
+2024-01-05 15:32:25,260:INFO:Logical Core: 8
+2024-01-05 15:32:25,260:INFO:Checking libraries
+2024-01-05 15:32:25,261:INFO:System:
+2024-01-05 15:32:25,261:INFO:    python: 3.11.5 (main, Sep 11 2023, 08:19:27) [Clang 14.0.6 ]
+2024-01-05 15:32:25,261:INFO:executable: /Users/vp/anaconda3/envs/mdse/bin/python
+2024-01-05 15:32:25,261:INFO:   machine: macOS-10.16-x86_64-i386-64bit
+2024-01-05 15:32:25,261:INFO:PyCaret required dependencies:
+2024-01-05 15:32:25,959:INFO:                 pip: 23.3
+2024-01-05 15:32:25,959:INFO:          setuptools: 68.0.0
+2024-01-05 15:32:25,959:INFO:             pycaret: 3.2.0
+2024-01-05 15:32:25,960:INFO:             IPython: 8.17.2
+2024-01-05 15:32:25,960:INFO:          ipywidgets: 8.1.1
+2024-01-05 15:32:25,960:INFO:                tqdm: 4.66.1
+2024-01-05 15:32:25,960:INFO:               numpy: 1.25.2
+2024-01-05 15:32:25,960:INFO:              pandas: 1.5.3
+2024-01-05 15:32:25,960:INFO:              jinja2: 3.1.2
+2024-01-05 15:32:25,960:INFO:               scipy: 1.10.1
+2024-01-05 15:32:25,960:INFO:              joblib: 1.3.2
+2024-01-05 15:32:25,960:INFO:             sklearn: 1.2.2
+2024-01-05 15:32:25,960:INFO:                pyod: 1.1.2
+2024-01-05 15:32:25,960:INFO:            imblearn: 0.11.0
+2024-01-05 15:32:25,960:INFO:   category_encoders: 2.6.3
+2024-01-05 15:32:25,960:INFO:            lightgbm: 4.2.0
+2024-01-05 15:32:25,960:INFO:               numba: 0.58.1
+2024-01-05 15:32:25,960:INFO:            requests: 2.31.0
+2024-01-05 15:32:25,960:INFO:          matplotlib: 3.6.0
+2024-01-05 15:32:25,960:INFO:          scikitplot: 0.3.7
+2024-01-05 15:32:25,961:INFO:         yellowbrick: 1.5
+2024-01-05 15:32:25,961:INFO:              plotly: 5.18.0
+2024-01-05 15:32:25,961:INFO:    plotly-resampler: Not installed
+2024-01-05 15:32:25,961:INFO:             kaleido: 0.2.1
+2024-01-05 15:32:25,961:INFO:           schemdraw: 0.15
+2024-01-05 15:32:25,961:INFO:         statsmodels: 0.14.1
+2024-01-05 15:32:25,961:INFO:              sktime: 0.21.1
+2024-01-05 15:32:25,961:INFO:               tbats: 1.1.3
+2024-01-05 15:32:25,961:INFO:            pmdarima: 2.0.4
+2024-01-05 15:32:25,961:INFO:              psutil: 5.9.5
+2024-01-05 15:32:25,961:INFO:          markupsafe: 2.1.3
+2024-01-05 15:32:25,961:INFO:             pickle5: Not installed
+2024-01-05 15:32:25,961:INFO:         cloudpickle: 3.0.0
+2024-01-05 15:32:25,961:INFO:         deprecation: 2.1.0
+2024-01-05 15:32:25,961:INFO:              xxhash: 3.4.1
+2024-01-05 15:32:25,961:INFO:           wurlitzer: 3.0.3
+2024-01-05 15:32:25,961:INFO:PyCaret optional dependencies:
+2024-01-05 15:32:25,986:INFO:                shap: Not installed
+2024-01-05 15:32:25,986:INFO:           interpret: Not installed
+2024-01-05 15:32:25,986:INFO:                umap: Not installed
+2024-01-05 15:32:25,986:INFO:     ydata_profiling: Not installed
+2024-01-05 15:32:25,986:INFO:  explainerdashboard: Not installed
+2024-01-05 15:32:25,986:INFO:             autoviz: Not installed
+2024-01-05 15:32:25,986:INFO:           fairlearn: Not installed
+2024-01-05 15:32:25,986:INFO:          deepchecks: Not installed
+2024-01-05 15:32:25,986:INFO:             xgboost: Not installed
+2024-01-05 15:32:25,986:INFO:            catboost: Not installed
+2024-01-05 15:32:25,986:INFO:              kmodes: Not installed
+2024-01-05 15:32:25,986:INFO:             mlxtend: Not installed
+2024-01-05 15:32:25,986:INFO:       statsforecast: Not installed
+2024-01-05 15:32:25,986:INFO:        tune_sklearn: Not installed
+2024-01-05 15:32:25,986:INFO:                 ray: Not installed
+2024-01-05 15:32:25,986:INFO:            hyperopt: Not installed
+2024-01-05 15:32:25,986:INFO:              optuna: Not installed
+2024-01-05 15:32:25,986:INFO:               skopt: Not installed
+2024-01-05 15:32:25,986:INFO:              mlflow: Not installed
+2024-01-05 15:32:25,986:INFO:              gradio: Not installed
+2024-01-05 15:32:25,986:INFO:             fastapi: Not installed
+2024-01-05 15:32:25,987:INFO:             uvicorn: Not installed
+2024-01-05 15:32:25,987:INFO:              m2cgen: Not installed
+2024-01-05 15:32:25,987:INFO:           evidently: Not installed
+2024-01-05 15:32:25,987:INFO:               fugue: Not installed
+2024-01-05 15:32:25,987:INFO:           streamlit: Not installed
+2024-01-05 15:32:25,987:INFO:             prophet: Not installed
+2024-01-05 15:32:25,987:INFO:None
+2024-01-05 15:32:25,987:INFO:Set up data.
+2024-01-05 15:32:26,505:INFO:Set up folding strategy.
+2024-01-05 15:32:26,509:INFO:Set up train/test split.
+2024-01-05 15:32:27,067:INFO:Set up index.
+2024-01-05 15:32:27,109:INFO:Assigning column types.
+2024-01-05 15:32:27,379:INFO:Engine successfully changes for model 'lr' to 'sklearn'.
+2024-01-05 15:32:27,450:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-01-05 15:32:27,454:INFO:Engine for model 'rbfsvm' has not been set explicitly, hence returning None.
+2024-01-05 15:32:27,504:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-01-05 15:32:27,505:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-01-05 15:32:27,568:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-01-05 15:32:27,569:INFO:Engine for model 'rbfsvm' has not been set explicitly, hence returning None.
+2024-01-05 15:32:27,610:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-01-05 15:32:27,610:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-01-05 15:32:27,610:INFO:Engine successfully changes for model 'knn' to 'sklearn'.
+2024-01-05 15:32:27,689:INFO:Engine for model 'rbfsvm' has not been set explicitly, hence returning None.
+2024-01-05 15:32:27,735:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-01-05 15:32:27,736:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-01-05 15:32:27,806:INFO:Engine for model 'rbfsvm' has not been set explicitly, hence returning None.
+2024-01-05 15:32:27,847:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-01-05 15:32:27,848:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-01-05 15:32:27,848:INFO:Engine successfully changes for model 'rbfsvm' to 'sklearn'.
+2024-01-05 15:32:27,964:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-01-05 15:32:27,964:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-01-05 15:32:28,073:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-01-05 15:32:28,073:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-01-05 15:32:28,077:INFO:Preparing preprocessing pipeline...
+2024-01-05 15:32:28,112:INFO:Set up simple imputation.
+2024-01-05 15:32:29,331:INFO:Finished creating preprocessing pipeline.
+2024-01-05 15:32:29,346:INFO:Pipeline: Pipeline(memory=FastMemory(location=/var/folders/41/p5vf899j42g1p4zhnsdw68d40000gn/T/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None,
+                                    include=['Time', 'V1', 'V2', 'V3', 'V4',
+                                             'V5', 'V6', 'V7', 'V8', 'V9',
+                                             'V10', 'V11', 'V12', 'V13', 'V14',
+                                             'V15', 'V16', 'V17', 'V18', 'V19',
+                                             'V20', 'V21', 'V22', 'V23', 'V24',
+                                             'V25', 'V26', 'V27', 'V28',
+                                             'Amount'],
+                                    transformer=...
+                                                              copy=True,
+                                                              fill_value=None,
+                                                              keep_empty_features=False,
+                                                              missing_values=nan,
+                                                              strategy='mean',
+                                                              verbose='deprecated'))),
+                ('categorical_imputer',
+                 TransformerWrapper(exclude=None, include=[],
+                                    transformer=SimpleImputer(add_indicator=False,
+                                                              copy=True,
+                                                              fill_value=None,
+                                                              keep_empty_features=False,
+                                                              missing_values=nan,
+                                                              strategy='most_frequent',
+                                                              verbose='deprecated')))],
+         verbose=False)
+2024-01-05 15:32:29,346:INFO:Creating final display dataframe.
+2024-01-05 15:32:30,847:INFO:Setup _display_container:                     Description             Value
+0                    Session id                42
+1                        Target             Class
+2                   Target type            Binary
+3           Original data shape      (455296, 31)
+4        Transformed data shape      (455296, 31)
+5   Transformed train set shape      (364236, 31)
+6    Transformed test set shape       (91060, 31)
+7              Numeric features                30
+8                    Preprocess              True
+9               Imputation type            simple
+10           Numeric imputation              mean
+11       Categorical imputation              mode
+12               Fold Generator   StratifiedKFold
+13                  Fold Number                10
+14                     CPU Jobs                -1
+15                      Use GPU             False
+16               Log Experiment             False
+17              Experiment Name  clf-default-name
+18                          USI              ca18
+2024-01-05 15:32:30,993:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-01-05 15:32:30,993:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-01-05 15:32:31,113:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-01-05 15:32:31,114:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-01-05 15:32:31,115:INFO:setup() successfully completed in 5.86s...............
+2024-01-05 15:32:31,116:INFO:Initializing compare_models()
+2024-01-05 15:32:31,116:INFO:compare_models(self=<pycaret.classification.oop.ClassificationExperiment object at 0x137ea9590>, include=None, exclude=None, fold=None, round=4, cross_validation=True, sort=AUC, n_select=1, budget_time=None, turbo=True, errors=ignore, fit_kwargs=None, groups=None, experiment_custom_tags=None, probability_threshold=None, verbose=True, parallel=None, caller_params={'self': <pycaret.classification.oop.ClassificationExperiment object at 0x137ea9590>, 'include': None, 'exclude': None, 'fold': None, 'round': 4, 'cross_validation': True, 'sort': 'AUC', 'n_select': 1, 'budget_time': None, 'turbo': True, 'errors': 'ignore', 'fit_kwargs': None, 'groups': None, 'experiment_custom_tags': None, 'probability_threshold': None, 'engine': None, 'verbose': True, 'parallel': None, '__class__': <class 'pycaret.classification.oop.ClassificationExperiment'>})
+2024-01-05 15:32:31,116:INFO:Checking exceptions
+2024-01-05 15:32:31,355:INFO:Preparing display monitor
+2024-01-05 15:32:31,510:INFO:Initializing Logistic Regression
+2024-01-05 15:32:31,511:INFO:Total runtime is 1.0498364766438802e-05 minutes
+2024-01-05 15:32:31,566:INFO:SubProcess create_model() called ==================================
+2024-01-05 15:32:31,568:INFO:Initializing create_model()
+2024-01-05 15:32:31,569:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x137ea9590>, estimator=lr, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x13ce55250>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-01-05 15:32:31,570:INFO:Checking exceptions
+2024-01-05 15:32:31,570:INFO:Importing libraries
+2024-01-05 15:32:31,570:INFO:Copying training dataset
+2024-01-05 15:32:32,042:INFO:Defining folds
+2024-01-05 15:32:32,042:INFO:Declaring metric variables
+2024-01-05 15:32:32,047:INFO:Importing untrained model
+2024-01-05 15:32:32,054:INFO:Logistic Regression Imported successfully
+2024-01-05 15:32:32,087:INFO:Starting cross validation
+2024-01-05 15:32:32,089:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-01-05 15:37:14,115:INFO:Calculating mean and std
+2024-01-05 15:37:14,124:INFO:Creating metrics dataframe
+2024-01-05 15:37:14,142:INFO:Uploading results into container
+2024-01-05 15:37:14,144:INFO:Uploading model into container now
+2024-01-05 15:37:14,149:INFO:_master_model_container: 1
+2024-01-05 15:37:14,149:INFO:_display_container: 2
+2024-01-05 15:37:14,151:INFO:LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=1000,
+                   multi_class='auto', n_jobs=None, penalty='l2',
+                   random_state=42, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False)
+2024-01-05 15:37:14,151:INFO:create_model() successfully completed......................................
+2024-01-05 15:37:15,342:INFO:SubProcess create_model() end ==================================
+2024-01-05 15:37:15,342:INFO:Creating metrics dataframe
+2024-01-05 15:37:15,372:INFO:Initializing K Neighbors Classifier
+2024-01-05 15:37:15,372:INFO:Total runtime is 4.7310376842816675 minutes
+2024-01-05 15:37:15,436:INFO:SubProcess create_model() called ==================================
+2024-01-05 15:37:15,437:INFO:Initializing create_model()
+2024-01-05 15:37:15,439:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x137ea9590>, estimator=knn, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x13ce55250>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-01-05 15:37:15,440:INFO:Checking exceptions
+2024-01-05 15:37:15,447:INFO:Importing libraries
+2024-01-05 15:37:15,447:INFO:Copying training dataset
+2024-01-05 15:37:16,504:INFO:Defining folds
+2024-01-05 15:37:16,505:INFO:Declaring metric variables
+2024-01-05 15:37:16,527:INFO:Importing untrained model
+2024-01-05 15:37:16,535:INFO:K Neighbors Classifier Imported successfully
+2024-01-05 15:37:16,556:INFO:Starting cross validation
+2024-01-05 15:37:16,560:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-01-05 15:53:18,812:INFO:Calculating mean and std
+2024-01-05 15:53:18,822:INFO:Creating metrics dataframe
+2024-01-05 15:53:18,842:INFO:Uploading results into container
+2024-01-05 15:53:18,844:INFO:Uploading model into container now
+2024-01-05 15:53:18,846:INFO:_master_model_container: 2
+2024-01-05 15:53:18,846:INFO:_display_container: 2
+2024-01-05 15:53:18,848:INFO:KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+                     metric_params=None, n_jobs=-1, n_neighbors=5, p=2,
+                     weights='uniform')
+2024-01-05 15:53:18,848:INFO:create_model() successfully completed......................................
+2024-01-05 15:53:19,529:INFO:SubProcess create_model() end ==================================
+2024-01-05 15:53:19,529:INFO:Creating metrics dataframe
+2024-01-05 15:53:19,544:INFO:Initializing Naive Bayes
+2024-01-05 15:53:19,544:INFO:Total runtime is 20.800569868087766 minutes
+2024-01-05 15:53:19,549:INFO:SubProcess create_model() called ==================================
+2024-01-05 15:53:19,549:INFO:Initializing create_model()
+2024-01-05 15:53:19,550:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x137ea9590>, estimator=nb, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x13ce55250>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-01-05 15:53:19,550:INFO:Checking exceptions
+2024-01-05 15:53:19,550:INFO:Importing libraries
+2024-01-05 15:53:19,550:INFO:Copying training dataset
+2024-01-05 15:53:19,895:INFO:Defining folds
+2024-01-05 15:53:19,895:INFO:Declaring metric variables
+2024-01-05 15:53:19,900:INFO:Importing untrained model
+2024-01-05 15:53:19,907:INFO:Naive Bayes Imported successfully
+2024-01-05 15:53:19,917:INFO:Starting cross validation
+2024-01-05 15:53:19,919:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-01-05 15:53:23,470:INFO:Calculating mean and std
+2024-01-05 15:53:23,472:INFO:Creating metrics dataframe
+2024-01-05 15:53:23,477:INFO:Uploading results into container
+2024-01-05 15:53:23,477:INFO:Uploading model into container now
+2024-01-05 15:53:23,478:INFO:_master_model_container: 3
+2024-01-05 15:53:23,478:INFO:_display_container: 2
+2024-01-05 15:53:23,478:INFO:GaussianNB(priors=None, var_smoothing=1e-09)
+2024-01-05 15:53:23,478:INFO:create_model() successfully completed......................................
+2024-01-05 15:53:23,652:INFO:SubProcess create_model() end ==================================
+2024-01-05 15:53:23,652:INFO:Creating metrics dataframe
+2024-01-05 15:53:23,669:INFO:Initializing Decision Tree Classifier
+2024-01-05 15:53:23,670:INFO:Total runtime is 20.86933178504308 minutes
+2024-01-05 15:53:23,675:INFO:SubProcess create_model() called ==================================
+2024-01-05 15:53:23,675:INFO:Initializing create_model()
+2024-01-05 15:53:23,675:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x137ea9590>, estimator=dt, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x13ce55250>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-01-05 15:53:23,675:INFO:Checking exceptions
+2024-01-05 15:53:23,675:INFO:Importing libraries
+2024-01-05 15:53:23,675:INFO:Copying training dataset
+2024-01-05 15:53:23,907:INFO:Defining folds
+2024-01-05 15:53:23,908:INFO:Declaring metric variables
+2024-01-05 15:53:23,914:INFO:Importing untrained model
+2024-01-05 15:53:23,922:INFO:Decision Tree Classifier Imported successfully
+2024-01-05 15:53:23,929:INFO:Starting cross validation
+2024-01-05 15:53:23,930:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-01-05 15:54:27,840:INFO:Calculating mean and std
+2024-01-05 15:54:27,842:INFO:Creating metrics dataframe
+2024-01-05 15:54:27,846:INFO:Uploading results into container
+2024-01-05 15:54:27,848:INFO:Uploading model into container now
+2024-01-05 15:54:27,848:INFO:_master_model_container: 4
+2024-01-05 15:54:27,848:INFO:_display_container: 2
+2024-01-05 15:54:27,849:INFO:DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
+                       max_depth=None, max_features=None, max_leaf_nodes=None,
+                       min_impurity_decrease=0.0, min_samples_leaf=1,
+                       min_samples_split=2, min_weight_fraction_leaf=0.0,
+                       random_state=42, splitter='best')
+2024-01-05 15:54:27,849:INFO:create_model() successfully completed......................................
+2024-01-05 15:54:28,042:INFO:SubProcess create_model() end ==================================
+2024-01-05 15:54:28,042:INFO:Creating metrics dataframe
+2024-01-05 15:54:28,066:INFO:Initializing SVM - Linear Kernel
+2024-01-05 15:54:28,066:INFO:Total runtime is 21.942601466178893 minutes
+2024-01-05 15:54:28,070:INFO:SubProcess create_model() called ==================================
+2024-01-05 15:54:28,071:INFO:Initializing create_model()
+2024-01-05 15:54:28,071:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x137ea9590>, estimator=svm, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x13ce55250>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-01-05 15:54:28,071:INFO:Checking exceptions
+2024-01-05 15:54:28,071:INFO:Importing libraries
+2024-01-05 15:54:28,071:INFO:Copying training dataset
+2024-01-05 15:54:28,396:INFO:Defining folds
+2024-01-05 15:54:28,397:INFO:Declaring metric variables
+2024-01-05 15:54:28,403:INFO:Importing untrained model
+2024-01-05 15:54:28,412:INFO:SVM - Linear Kernel Imported successfully
+2024-01-05 15:54:28,437:INFO:Starting cross validation
+2024-01-05 15:54:28,439:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-01-05 15:55:28,086:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:55:28,732:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:55:29,921:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:55:30,688:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:55:33,529:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:55:34,114:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:55:48,949:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:55:49,363:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:55:49,551:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:55:49,848:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:55:55,023:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:55:55,341:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:55:55,388:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:55:55,648:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:55:55,799:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:55:56,027:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:56:04,087:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:56:04,258:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:56:05,964:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:56:06,117:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/utils/_available_if.py", line 32, in __get__
+    if not self.check(obj):
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2024-01-05 15:56:06,238:INFO:Calculating mean and std
+2024-01-05 15:56:06,241:INFO:Creating metrics dataframe
+2024-01-05 15:56:06,250:INFO:Uploading results into container
+2024-01-05 15:56:06,252:INFO:Uploading model into container now
+2024-01-05 15:56:06,253:INFO:_master_model_container: 5
+2024-01-05 15:56:06,253:INFO:_display_container: 2
+2024-01-05 15:56:06,254:INFO:SGDClassifier(alpha=0.0001, average=False, class_weight=None,
+              early_stopping=False, epsilon=0.1, eta0=0.001, fit_intercept=True,
+              l1_ratio=0.15, learning_rate='optimal', loss='hinge',
+              max_iter=1000, n_iter_no_change=5, n_jobs=-1, penalty='l2',
+              power_t=0.5, random_state=42, shuffle=True, tol=0.001,
+              validation_fraction=0.1, verbose=0, warm_start=False)
+2024-01-05 15:56:06,254:INFO:create_model() successfully completed......................................
+2024-01-05 15:56:06,431:INFO:SubProcess create_model() end ==================================
+2024-01-05 15:56:06,432:INFO:Creating metrics dataframe
+2024-01-05 15:56:06,456:INFO:Initializing Ridge Classifier
+2024-01-05 15:56:06,456:INFO:Total runtime is 23.58243898550669 minutes
+2024-01-05 15:56:06,466:INFO:SubProcess create_model() called ==================================
+2024-01-05 15:56:06,467:INFO:Initializing create_model()
+2024-01-05 15:56:06,467:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x137ea9590>, estimator=ridge, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x13ce55250>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-01-05 15:56:06,467:INFO:Checking exceptions
+2024-01-05 15:56:06,467:INFO:Importing libraries
+2024-01-05 15:56:06,468:INFO:Copying training dataset
+2024-01-05 15:56:06,795:INFO:Defining folds
+2024-01-05 15:56:06,795:INFO:Declaring metric variables
+2024-01-05 15:56:06,801:INFO:Importing untrained model
+2024-01-05 15:56:06,807:INFO:Ridge Classifier Imported successfully
+2024-01-05 15:56:06,827:INFO:Starting cross validation
+2024-01-05 15:56:06,829:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-01-05 15:56:09,163:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_ridge.py:216: LinAlgWarning: Ill-conditioned matrix (rcond=1.47209e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2024-01-05 15:56:09,314:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_ridge.py:216: LinAlgWarning: Ill-conditioned matrix (rcond=1.51035e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2024-01-05 15:56:09,425:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:09,615:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_ridge.py:216: LinAlgWarning: Ill-conditioned matrix (rcond=1.57629e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2024-01-05 15:56:09,687:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_ridge.py:216: LinAlgWarning: Ill-conditioned matrix (rcond=1.60638e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2024-01-05 15:56:09,807:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:09,808:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_ridge.py:216: LinAlgWarning: Ill-conditioned matrix (rcond=1.60095e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2024-01-05 15:56:09,910:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:09,920:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:09,965:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_ridge.py:216: LinAlgWarning: Ill-conditioned matrix (rcond=1.52454e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2024-01-05 15:56:09,985:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:10,009:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_ridge.py:216: LinAlgWarning: Ill-conditioned matrix (rcond=1.55587e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2024-01-05 15:56:10,079:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_ridge.py:216: LinAlgWarning: Ill-conditioned matrix (rcond=1.57539e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2024-01-05 15:56:10,141:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:10,185:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:10,237:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:10,274:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:10,311:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:10,405:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:10,415:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:10,560:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:10,633:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:10,656:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:10,696:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:11,277:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_ridge.py:216: LinAlgWarning: Ill-conditioned matrix (rcond=1.5498e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2024-01-05 15:56:11,371:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/linear_model/_ridge.py:216: LinAlgWarning: Ill-conditioned matrix (rcond=1.50002e-11): result may not be accurate.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+
+2024-01-05 15:56:11,389:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:11,473:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:11,591:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:11,649:WARNING:/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py:190: FitFailedWarning: Metric 'make_scorer(average_precision_score, needs_proba=True, error_score=0.0)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 76, in _cached_call
+    return cache[method]
+           ~~~~~^^^^^^^^
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/metrics.py", line 182, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/sklearn/metrics/_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vp/anaconda3/envs/mdse/lib/python3.11/site-packages/pycaret/internal/pipeline.py", line 127, in __getattr__
+    return getattr(self._final_estimator, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
+
+  warnings.warn(
+
+2024-01-05 15:56:11,764:INFO:Calculating mean and std
+2024-01-05 15:56:11,766:INFO:Creating metrics dataframe
+2024-01-05 15:56:11,773:INFO:Uploading results into container
+2024-01-05 15:56:11,774:INFO:Uploading model into container now
+2024-01-05 15:56:11,775:INFO:_master_model_container: 6
+2024-01-05 15:56:11,775:INFO:_display_container: 2
+2024-01-05 15:56:11,775:INFO:RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, positive=False, random_state=42, solver='auto',
+                tol=0.0001)
+2024-01-05 15:56:11,775:INFO:create_model() successfully completed......................................
+2024-01-05 15:56:12,011:INFO:SubProcess create_model() end ==================================
+2024-01-05 15:56:12,011:INFO:Creating metrics dataframe
+2024-01-05 15:56:12,029:INFO:Initializing Random Forest Classifier
+2024-01-05 15:56:12,029:INFO:Total runtime is 23.675317096710202 minutes
+2024-01-05 15:56:12,034:INFO:SubProcess create_model() called ==================================
+2024-01-05 15:56:12,035:INFO:Initializing create_model()
+2024-01-05 15:56:12,035:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x137ea9590>, estimator=rf, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x13ce55250>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-01-05 15:56:12,035:INFO:Checking exceptions
+2024-01-05 15:56:12,035:INFO:Importing libraries
+2024-01-05 15:56:12,035:INFO:Copying training dataset
+2024-01-05 15:56:12,572:INFO:Defining folds
+2024-01-05 15:56:12,572:INFO:Declaring metric variables
+2024-01-05 15:56:12,584:INFO:Importing untrained model
+2024-01-05 15:56:12,595:INFO:Random Forest Classifier Imported successfully
+2024-01-05 15:56:12,607:INFO:Starting cross validation
+2024-01-05 15:56:12,608:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-01-05 16:06:40,128:INFO:Calculating mean and std
+2024-01-05 16:06:40,131:INFO:Creating metrics dataframe
+2024-01-05 16:06:40,135:INFO:Uploading results into container
+2024-01-05 16:06:40,136:INFO:Uploading model into container now
+2024-01-05 16:06:40,137:INFO:_master_model_container: 7
+2024-01-05 16:06:40,137:INFO:_display_container: 2
+2024-01-05 16:06:40,137:INFO:RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='gini', max_depth=None, max_features='sqrt',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_samples_leaf=1,
+                       min_samples_split=2, min_weight_fraction_leaf=0.0,
+                       n_estimators=100, n_jobs=-1, oob_score=False,
+                       random_state=42, verbose=0, warm_start=False)
+2024-01-05 16:06:40,137:INFO:create_model() successfully completed......................................
+2024-01-05 16:06:40,316:INFO:SubProcess create_model() end ==================================
+2024-01-05 16:06:40,317:INFO:Creating metrics dataframe
+2024-01-05 16:06:40,331:INFO:Initializing Quadratic Discriminant Analysis
+2024-01-05 16:06:40,332:INFO:Total runtime is 34.14702613353729 minutes
+2024-01-05 16:06:40,336:INFO:SubProcess create_model() called ==================================
+2024-01-05 16:06:40,336:INFO:Initializing create_model()
+2024-01-05 16:06:40,336:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x137ea9590>, estimator=qda, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x13ce55250>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-01-05 16:06:40,337:INFO:Checking exceptions
+2024-01-05 16:06:40,337:INFO:Importing libraries
+2024-01-05 16:06:40,337:INFO:Copying training dataset
+2024-01-05 16:06:40,591:INFO:Defining folds
+2024-01-05 16:06:40,591:INFO:Declaring metric variables
+2024-01-05 16:06:40,598:INFO:Importing untrained model
+2024-01-05 16:06:40,602:INFO:Quadratic Discriminant Analysis Imported successfully
+2024-01-05 16:06:40,609:INFO:Starting cross validation
+2024-01-05 16:06:40,612:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-01-05 16:06:49,582:INFO:Calculating mean and std
+2024-01-05 16:06:49,583:INFO:Creating metrics dataframe
+2024-01-05 16:06:49,588:INFO:Uploading results into container
+2024-01-05 16:06:49,588:INFO:Uploading model into container now
+2024-01-05 16:06:49,588:INFO:_master_model_container: 8
+2024-01-05 16:06:49,588:INFO:_display_container: 2
+2024-01-05 16:06:49,589:INFO:QuadraticDiscriminantAnalysis(priors=None, reg_param=0.0,
+                              store_covariance=False, tol=0.0001)
+2024-01-05 16:06:49,589:INFO:create_model() successfully completed......................................
+2024-01-05 16:06:49,761:INFO:SubProcess create_model() end ==================================
+2024-01-05 16:06:49,762:INFO:Creating metrics dataframe
+2024-01-05 16:06:49,777:INFO:Initializing Ada Boost Classifier
+2024-01-05 16:06:49,777:INFO:Total runtime is 34.30445133050282 minutes
+2024-01-05 16:06:49,781:INFO:SubProcess create_model() called ==================================
+2024-01-05 16:06:49,782:INFO:Initializing create_model()
+2024-01-05 16:06:49,782:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x137ea9590>, estimator=ada, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x13ce55250>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-01-05 16:06:49,782:INFO:Checking exceptions
+2024-01-05 16:06:49,782:INFO:Importing libraries
+2024-01-05 16:06:49,783:INFO:Copying training dataset
+2024-01-05 16:06:50,031:INFO:Defining folds
+2024-01-05 16:06:50,032:INFO:Declaring metric variables
+2024-01-05 16:06:50,036:INFO:Importing untrained model
+2024-01-05 16:06:50,039:INFO:Ada Boost Classifier Imported successfully
+2024-01-05 16:06:50,048:INFO:Starting cross validation
+2024-01-05 16:06:50,050:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-01-05 16:12:03,328:INFO:Calculating mean and std
+2024-01-05 16:12:03,338:INFO:Creating metrics dataframe
+2024-01-05 16:12:03,355:INFO:Uploading results into container
+2024-01-05 16:12:03,357:INFO:Uploading model into container now
+2024-01-05 16:12:03,359:INFO:_master_model_container: 9
+2024-01-05 16:12:03,360:INFO:_display_container: 2
+2024-01-05 16:12:03,361:INFO:AdaBoostClassifier(algorithm='SAMME.R', base_estimator='deprecated',
+                   estimator=None, learning_rate=1.0, n_estimators=50,
+                   random_state=42)
+2024-01-05 16:12:03,361:INFO:create_model() successfully completed......................................
+2024-01-05 16:12:03,972:INFO:SubProcess create_model() end ==================================
+2024-01-05 16:12:03,972:INFO:Creating metrics dataframe
+2024-01-05 16:12:03,988:INFO:Initializing Gradient Boosting Classifier
+2024-01-05 16:12:03,988:INFO:Total runtime is 39.54130581617355 minutes
+2024-01-05 16:12:03,993:INFO:SubProcess create_model() called ==================================
+2024-01-05 16:12:03,993:INFO:Initializing create_model()
+2024-01-05 16:12:03,993:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x137ea9590>, estimator=gbc, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x13ce55250>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-01-05 16:12:03,993:INFO:Checking exceptions
+2024-01-05 16:12:03,994:INFO:Importing libraries
+2024-01-05 16:12:03,994:INFO:Copying training dataset
+2024-01-05 16:12:04,313:INFO:Defining folds
+2024-01-05 16:12:04,313:INFO:Declaring metric variables
+2024-01-05 16:12:04,316:INFO:Importing untrained model
+2024-01-05 16:12:04,324:INFO:Gradient Boosting Classifier Imported successfully
+2024-01-05 16:12:04,331:INFO:Starting cross validation
+2024-01-05 16:12:04,332:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-01-05 16:36:00,773:INFO:Calculating mean and std
+2024-01-05 16:36:00,775:INFO:Creating metrics dataframe
+2024-01-05 16:36:00,781:INFO:Uploading results into container
+2024-01-05 16:36:00,781:INFO:Uploading model into container now
+2024-01-05 16:36:00,782:INFO:_master_model_container: 10
+2024-01-05 16:36:00,782:INFO:_display_container: 2
+2024-01-05 16:36:00,783:INFO:GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.1, loss='log_loss', max_depth=3,
+                           max_features=None, max_leaf_nodes=None,
+                           min_impurity_decrease=0.0, min_samples_leaf=1,
+                           min_samples_split=2, min_weight_fraction_leaf=0.0,
+                           n_estimators=100, n_iter_no_change=None,
+                           random_state=42, subsample=1.0, tol=0.0001,
+                           validation_fraction=0.1, verbose=0,
+                           warm_start=False)
+2024-01-05 16:36:00,783:INFO:create_model() successfully completed......................................
+2024-01-05 16:36:00,953:INFO:SubProcess create_model() end ==================================
+2024-01-05 16:36:00,954:INFO:Creating metrics dataframe
+2024-01-05 16:36:00,969:INFO:Initializing Linear Discriminant Analysis
+2024-01-05 16:36:00,969:INFO:Total runtime is 63.49098533391952 minutes
+2024-01-05 16:36:00,972:INFO:SubProcess create_model() called ==================================
+2024-01-05 16:36:00,973:INFO:Initializing create_model()
+2024-01-05 16:36:00,973:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x137ea9590>, estimator=lda, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x13ce55250>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-01-05 16:36:00,973:INFO:Checking exceptions
+2024-01-05 16:36:00,973:INFO:Importing libraries
+2024-01-05 16:36:00,973:INFO:Copying training dataset
+2024-01-05 16:36:01,202:INFO:Defining folds
+2024-01-05 16:36:01,202:INFO:Declaring metric variables
+2024-01-05 16:36:01,206:INFO:Importing untrained model
+2024-01-05 16:36:01,211:INFO:Linear Discriminant Analysis Imported successfully
+2024-01-05 16:36:01,219:INFO:Starting cross validation
+2024-01-05 16:36:01,220:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-01-05 16:36:16,074:INFO:Calculating mean and std
+2024-01-05 16:36:16,077:INFO:Creating metrics dataframe
+2024-01-05 16:36:16,083:INFO:Uploading results into container
+2024-01-05 16:36:16,084:INFO:Uploading model into container now
+2024-01-05 16:36:16,085:INFO:_master_model_container: 11
+2024-01-05 16:36:16,085:INFO:_display_container: 2
+2024-01-05 16:36:16,086:INFO:LinearDiscriminantAnalysis(covariance_estimator=None, n_components=None,
+                           priors=None, shrinkage=None, solver='svd',
+                           store_covariance=False, tol=0.0001)
+2024-01-05 16:36:16,087:INFO:create_model() successfully completed......................................
+2024-01-05 16:36:16,400:INFO:SubProcess create_model() end ==================================
+2024-01-05 16:36:16,400:INFO:Creating metrics dataframe
+2024-01-05 16:36:16,417:INFO:Initializing Extra Trees Classifier
+2024-01-05 16:36:16,417:INFO:Total runtime is 63.74845364888508 minutes
+2024-01-05 16:36:16,422:INFO:SubProcess create_model() called ==================================
+2024-01-05 16:36:16,423:INFO:Initializing create_model()
+2024-01-05 16:36:16,423:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x137ea9590>, estimator=et, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x13ce55250>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-01-05 16:36:16,423:INFO:Checking exceptions
+2024-01-05 16:36:16,423:INFO:Importing libraries
+2024-01-05 16:36:16,424:INFO:Copying training dataset
+2024-01-05 16:36:16,693:INFO:Defining folds
+2024-01-05 16:36:16,693:INFO:Declaring metric variables
+2024-01-05 16:36:16,698:INFO:Importing untrained model
+2024-01-05 16:36:16,702:INFO:Extra Trees Classifier Imported successfully
+2024-01-05 16:36:16,712:INFO:Starting cross validation
+2024-01-05 16:36:16,713:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-01-05 16:38:27,288:INFO:Calculating mean and std
+2024-01-05 16:38:27,290:INFO:Creating metrics dataframe
+2024-01-05 16:38:27,294:INFO:Uploading results into container
+2024-01-05 16:38:27,295:INFO:Uploading model into container now
+2024-01-05 16:38:27,295:INFO:_master_model_container: 12
+2024-01-05 16:38:27,295:INFO:_display_container: 2
+2024-01-05 16:38:27,296:INFO:ExtraTreesClassifier(bootstrap=False, ccp_alpha=0.0, class_weight=None,
+                     criterion='gini', max_depth=None, max_features='sqrt',
+                     max_leaf_nodes=None, max_samples=None,
+                     min_impurity_decrease=0.0, min_samples_leaf=1,
+                     min_samples_split=2, min_weight_fraction_leaf=0.0,
+                     n_estimators=100, n_jobs=-1, oob_score=False,
+                     random_state=42, verbose=0, warm_start=False)
+2024-01-05 16:38:27,297:INFO:create_model() successfully completed......................................
+2024-01-05 16:38:27,492:INFO:SubProcess create_model() end ==================================
+2024-01-05 16:38:27,492:INFO:Creating metrics dataframe
+2024-01-05 16:38:27,518:INFO:Initializing Light Gradient Boosting Machine
+2024-01-05 16:38:27,518:INFO:Total runtime is 65.93346676826476 minutes
+2024-01-05 16:38:27,523:INFO:SubProcess create_model() called ==================================
+2024-01-05 16:38:27,523:INFO:Initializing create_model()
+2024-01-05 16:38:27,523:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x137ea9590>, estimator=lightgbm, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x13ce55250>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-01-05 16:38:27,523:INFO:Checking exceptions
+2024-01-05 16:38:27,523:INFO:Importing libraries
+2024-01-05 16:38:27,523:INFO:Copying training dataset
+2024-01-05 16:38:27,775:INFO:Defining folds
+2024-01-05 16:38:27,775:INFO:Declaring metric variables
+2024-01-05 16:38:27,780:INFO:Importing untrained model
+2024-01-05 16:38:27,787:INFO:Light Gradient Boosting Machine Imported successfully
+2024-01-05 16:38:27,843:INFO:Starting cross validation
+2024-01-05 16:38:27,844:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-01-05 16:38:58,447:INFO:Calculating mean and std
+2024-01-05 16:38:58,451:INFO:Creating metrics dataframe
+2024-01-05 16:38:58,456:INFO:Uploading results into container
+2024-01-05 16:38:58,457:INFO:Uploading model into container now
+2024-01-05 16:38:58,457:INFO:_master_model_container: 13
+2024-01-05 16:38:58,457:INFO:_display_container: 2
+2024-01-05 16:38:58,458:INFO:LGBMClassifier(boosting_type='gbdt', class_weight=None, colsample_bytree=1.0,
+               importance_type='split', learning_rate=0.1, max_depth=-1,
+               min_child_samples=20, min_child_weight=0.001, min_split_gain=0.0,
+               n_estimators=100, n_jobs=-1, num_leaves=31, objective=None,
+               random_state=42, reg_alpha=0.0, reg_lambda=0.0, subsample=1.0,
+               subsample_for_bin=200000, subsample_freq=0)
+2024-01-05 16:38:58,458:INFO:create_model() successfully completed......................................
+2024-01-05 16:38:58,645:INFO:SubProcess create_model() end ==================================
+2024-01-05 16:38:58,645:INFO:Creating metrics dataframe
+2024-01-05 16:38:58,662:INFO:Initializing Dummy Classifier
+2024-01-05 16:38:58,662:INFO:Total runtime is 66.45253245035806 minutes
+2024-01-05 16:38:58,668:INFO:SubProcess create_model() called ==================================
+2024-01-05 16:38:58,669:INFO:Initializing create_model()
+2024-01-05 16:38:58,669:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x137ea9590>, estimator=dummy, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x13ce55250>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-01-05 16:38:58,669:INFO:Checking exceptions
+2024-01-05 16:38:58,669:INFO:Importing libraries
+2024-01-05 16:38:58,669:INFO:Copying training dataset
+2024-01-05 16:38:58,927:INFO:Defining folds
+2024-01-05 16:38:58,927:INFO:Declaring metric variables
+2024-01-05 16:38:58,935:INFO:Importing untrained model
+2024-01-05 16:38:58,939:INFO:Dummy Classifier Imported successfully
+2024-01-05 16:38:58,946:INFO:Starting cross validation
+2024-01-05 16:38:58,947:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-01-05 16:39:00,982:INFO:Calculating mean and std
+2024-01-05 16:39:00,988:INFO:Creating metrics dataframe
+2024-01-05 16:39:00,992:INFO:Uploading results into container
+2024-01-05 16:39:00,993:INFO:Uploading model into container now
+2024-01-05 16:39:00,994:INFO:_master_model_container: 14
+2024-01-05 16:39:00,994:INFO:_display_container: 2
+2024-01-05 16:39:00,994:INFO:DummyClassifier(constant=None, random_state=42, strategy='prior')
+2024-01-05 16:39:00,994:INFO:create_model() successfully completed......................................
+2024-01-05 16:39:01,176:INFO:SubProcess create_model() end ==================================
+2024-01-05 16:39:01,176:INFO:Creating metrics dataframe
+2024-01-05 16:39:01,209:INFO:Initializing create_model()
+2024-01-05 16:39:01,209:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x137ea9590>, estimator=LGBMClassifier(boosting_type='gbdt', class_weight=None, colsample_bytree=1.0,
+               importance_type='split', learning_rate=0.1, max_depth=-1,
+               min_child_samples=20, min_child_weight=0.001, min_split_gain=0.0,
+               n_estimators=100, n_jobs=-1, num_leaves=31, objective=None,
+               random_state=42, reg_alpha=0.0, reg_lambda=0.0, subsample=1.0,
+               subsample_for_bin=200000, subsample_freq=0), fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=False, predict=False, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-01-05 16:39:01,209:INFO:Checking exceptions
+2024-01-05 16:39:01,211:INFO:Importing libraries
+2024-01-05 16:39:01,211:INFO:Copying training dataset
+2024-01-05 16:39:01,441:INFO:Defining folds
+2024-01-05 16:39:01,441:INFO:Declaring metric variables
+2024-01-05 16:39:01,441:INFO:Importing untrained model
+2024-01-05 16:39:01,441:INFO:Declaring custom model
+2024-01-05 16:39:01,442:INFO:Light Gradient Boosting Machine Imported successfully
+2024-01-05 16:39:01,442:INFO:Cross validation set to False
+2024-01-05 16:39:01,442:INFO:Fitting Model
